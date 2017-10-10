@@ -12,6 +12,6 @@
 *.sln
 *.userprefs
 
-/Releases
+/Builds
 /Resources
-
+/.vs

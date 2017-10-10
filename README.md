@@ -5,8 +5,6 @@ A simple rope experiment. Connected 80 rigidbodies by Spring Joint and rendering
 Drag the rope to move  
 Arrow Up/Down: Reel
 
-A Web Player example is available on http://www.geoquake.com/experimental/unity/Rope/
-
 This project is public domain.
 
 Author
