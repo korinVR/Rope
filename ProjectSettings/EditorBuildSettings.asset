@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Rope/Rope.unity
+    guid: 130c6b1552f0cd743afc43f069b0c21a
+  m_configObjects: {}

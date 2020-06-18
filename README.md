@@ -1,9 +1,8 @@
-Unity Rope experiment
-=====================
-A simple rope experiment. Connected 80 rigidbodies by Spring Joint and rendering by Line Renderer with Catmull-Rom spline interpolation.
+Simple rope simulation for Unity
+================================
+A simple rope experiment. Connected 80 rigidbodies with Spring Joint and render them with Line Renderer using Catmull-Rom spline interpolation.
 
-Drag the rope to move  
-Arrow Up/Down: Reel
+Just play the Rope scene and drag the rope. Use arrow up/down keys to reel and release the rope.
 
 This project is public domain.
 
